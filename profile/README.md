@@ -16,4 +16,4 @@ Plusieurs projets pour vous et votre box sont prévus et sont déjà disponibles
 
 **Précision:**
 
-- Freebox Tools est indépendant et n'a aucun lien avec Free et Illiad.# .github
+- Freebox Tools est indépendant et n'a aucun lien avec Free et Illiad.
