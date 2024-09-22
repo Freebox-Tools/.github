@@ -12,6 +12,8 @@ Free permet de faire énormèment de choses sur votre Freebox grâce à la docum
 
 Freebox Tools permet par exemple grâce à [Freebox Wrapper](https://github.com/Freebox-Tools/freebox-wrapper), de créé vous même vos projets en JavaScript beaucoup plus facilement.
 
+Une version de cette librairie est aussi disponible [ici](https://github.com/Freebox-Tools/dart-freebox) en Dart pour Flutter. (Compatible iOS, Android, Windows, macOS, Linux)
+___
 Plusieurs projets pour vous et votre box sont prévus et sont déjà disponibles sur le GitHub de Freebox Tools. 
 
 **Précision:**
